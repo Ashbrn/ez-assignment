@@ -19,7 +19,7 @@ def groq_chat(prompt, temperature=0.7, max_tokens=500):
     """
     Send a prompt to Groq API and get response
     """
-    api_key = os.getenv("GROQ_API_KEY", "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")
+    api_key = os.getenv("GROQ_API_KEY")
     
     # Try different models in order of preference
     models_to_try = [

@@ -1,0 +1,9 @@
+# Ignore Python artifacts
+__pycache__/
+*.pyc
+
+# VS Code folders
+.vscode/
+
+# Environment variables
+.env
