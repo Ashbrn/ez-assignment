@@ -1,9 +1,10 @@
 # 🧠 Smart Assistant for Research Summarization
 
 An intelligent document analysis tool that helps you summarize, chat with, and test your understanding of PDF and TXT documents using AI.
-## 🎥 Demo
 
-[![Watch the demo](https://youtu.be/eIlSxAoeExM?si=YEPEmVonx_tD1tK5)
+## 🎥 Demo
+[![Watch the Demo](https://img.youtube.com/vi/eIlSxAoeExM/0.jpg)](https://www.youtube.com/watch?v=eIlSxAoeExM)
+
 
 ## ✨ Features
 
