@@ -3,7 +3,7 @@
 An intelligent document analysis tool that helps you summarize, chat with, and test your understanding of PDF and TXT documents using AI.
 ## 🎥 Demo
 
-[![Watch the demo](https://youtu.be/eIlSxAoeExM)
+[![Watch the demo]([https://youtu.be/eIlSxAoeExM](https://www.youtube.com/watch?v=eIlSxAoeExM))
 
 ## ✨ Features
 
